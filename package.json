@@ -1,0 +1,23 @@
+{
+  "name": "1yd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microelec/1yd.git"
+  },
+  "author": "microelec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microelec/1yd/issues"
+  },
+  "homepage": "https://github.com/microelec/1yd#readme",
+  "dependencies": {
+    "crawler": "^1.2.0"
+  }
+}
